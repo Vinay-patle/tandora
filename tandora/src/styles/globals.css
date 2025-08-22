@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles for the Tandora e-commerce site */
+@layer components {
+  .product-card-hover {
+    @apply transition-transform duration-300 hover:scale-105;
+  }
+}
