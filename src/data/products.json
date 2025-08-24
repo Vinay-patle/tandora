@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Premium Wireless Headphones",
+    "price": 299.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "description": "High-quality wireless headphones with active noise cancellation and premium sound quality. Perfect for music lovers and professionals.",
+    "rating": 4.8,
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "name": "Designer Leather Jacket",
+    "price": 199.99,
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400&h=400&fit=crop",
+    "category": "Clothing",
+    "description": "Stylish genuine leather jacket with modern cut. Made from premium materials for durability and comfort.",
+    "rating": 4.6,
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "name": "Smart Fitness Watch",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "description": "Advanced fitness tracking watch with heart rate monitor, GPS, and smartphone integration.",
+    "rating": 4.7,
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "name": "Artisan Coffee Mug Set",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1514228742587-6b1558fcf93a?w=400&h=400&fit=crop",
+    "category": "Home & Garden",
+    "description": "Set of 4 handcrafted ceramic coffee mugs. Perfect for coffee enthusiasts who appreciate quality craftsmanship.",
+    "rating": 4.4,
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "name": "Ergonomic Office Chair",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=400&h=400&fit=crop",
+    "category": "Furniture",
+    "description": "Comfortable ergonomic office chair with lumbar support and adjustable height. Ideal for long work sessions.",
+    "rating": 4.5,
+    "inStock": false
+  },
+  {
+    "id": "6",
+    "name": "Vintage Sunglasses",
+    "price": 79.99,
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=400&h=400&fit=crop",
+    "category": "Accessories",
+    "description": "Classic vintage-style sunglasses with UV protection. Timeless design meets modern functionality.",
+    "rating": 4.3,
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "name": "Organic Skincare Set",
+    "price": 89.99,
+    "image": "https://images.unsplash.com/photo-1556228578-0d85b1a4d571?w=400&h=400&fit=crop",
+    "category": "Beauty",
+    "description": "Complete organic skincare routine with cleanser, toner, and moisturizer. Made with natural ingredients.",
+    "rating": 4.9,
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "name": "Bluetooth Speaker",
+    "price": 159.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+    "category": "Electronics",
+    "description": "Portable Bluetooth speaker with rich sound and long battery life. Perfect for outdoor adventures.",
+    "rating": 4.6,
+    "inStock": true
+  }
+]
